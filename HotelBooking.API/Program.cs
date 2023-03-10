@@ -15,6 +15,7 @@ builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("HotelDB");
 builder.Services.AddDbContext<HotelContext>(options => { options.UseSqlServer(connectionString);});
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

@@ -30,7 +30,7 @@ namespace HotelBooking.Domain.Models
         public string City { get; set; }    
         public string Country { get; set; }
         public string Description { get; set; }
-        public ICollection<Room> Rooms { get; set; }
+        public ICollection<Room>? Rooms { get; set; }
 
     }
 }

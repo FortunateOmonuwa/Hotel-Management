@@ -69,3 +69,5 @@ C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\ru
 C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\HotelBooking.DataAccessLayer.dll
 C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\HotelBooking.DataAccessLayer.pdb
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
